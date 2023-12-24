@@ -35,3 +35,4 @@ loclx.exe account login # For Windows
 ```bash
 loclx tunnel http --to localhost:5000
 ```
+Once you run this you should see your external link. Mine is "99z9fh46no.loclx.io".
