@@ -36,3 +36,4 @@ loclx.exe account login # For Windows
 loclx tunnel http --to localhost:5000
 ```
 Once you run this you should see your external link. Mine is "99z9fh46no.loclx.io".
+![alt text](https://github.com/KodinGuy08/URL-Shortening-Flask/blob/main/images/Screenshot%20from%202023-12-24%2023-30-48.png?raw=true)
